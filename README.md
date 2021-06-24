@@ -17,6 +17,19 @@ I am a versatilist and easily adapt to different hats (Competitve Programmer �
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working on [Doctro App](https://github.com/subhashishanand/Doctro-App);
+- 🌱 I’m currently learning Competitive Programming(codeforces); 
+- 👯 I’m looking to **Full Time Job** 🤝;
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/subhashish-anand/)
+- 📝 Checkout my [resume](https://drive.google.com/drive/folders/1KA4-nhFOSq19HUrKbKMfhXnJ53OxqO4E?usp=sharing)
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- 📚 When I am free, I read fantasy and fiction novels
+
+
 <!--
 **subhashishanand/subhashishanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
