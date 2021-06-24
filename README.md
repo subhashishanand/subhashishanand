@@ -26,7 +26,6 @@ I am a versatilist and easily adapt to different hats (Competitve Programmer �
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/subhashish-anand/)
 - 📝 Checkout my [resume](https://drive.google.com/drive/folders/1KA4-nhFOSq19HUrKbKMfhXnJ53OxqO4E?usp=sharing)
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📚 When I am free, I read fantasy and fiction novels
 
 
