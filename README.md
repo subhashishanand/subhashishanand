@@ -28,8 +28,6 @@ I am a versatilist and easily adapt to different hats (Competitve Programmer �
 - 💬 Ask me about anything, I am happy to help;
 - 📚 When I am free, I read fantasy and fiction novels;
 
-
-<br/>
 <br/>
 
 **Languages and Tools:** 
