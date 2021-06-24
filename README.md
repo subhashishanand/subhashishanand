@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (Competitve Programmer �
 
 - 👨🏽‍💻 I’m currently working on [Doctro App](https://github.com/subhashishanand/Doctro-App);
 - 🌱 I’m currently learning Competitive Programming(codeforces); 
-- 👯 I’m looking to **Full Time Job** 🤝;
+- 🤔 I’m looking to **Full Time Job** 🤝;
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/subhashish-anand/)
 - 📝 Checkout my [resume](https://drive.google.com/drive/folders/1KA4-nhFOSq19HUrKbKMfhXnJ53OxqO4E?usp=sharing);
 - 💬 Ask me about anything, I am happy to help;
